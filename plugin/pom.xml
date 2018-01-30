@@ -5,11 +5,11 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>structs-parent</artifactId>
-    <version>1.11-SNAPSHOT</version>
+    <version>1.11-fast-SNAPSHOT</version>
   </parent>
 
   <artifactId>structs</artifactId>
-  <version>1.11-SNAPSHOT</version>
+  <version>1.11-fast-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <name>Structs Plugin</name>
